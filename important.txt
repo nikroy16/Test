@@ -1,2 +1,6 @@
 super really important
+<<<<<<< Updated upstream
 Nikhil's change
+=======
+this is the 2nd change
+>>>>>>> Stashed changes

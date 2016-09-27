@@ -1,2 +1,6 @@
 not really important
+<<<<<<< Updated upstream
 Nikhil's not important change
+=======
+this is a second change
+>>>>>>> Stashed changes
